@@ -1,2 +1,2 @@
-# markEight-Emoji-Interpreter
+# emoji-interpreter-practice
 Created with CodeSandbox
